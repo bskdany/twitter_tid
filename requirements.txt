@@ -1,0 +1,2 @@
+beautifulsoup4
+flask==3.0.2
